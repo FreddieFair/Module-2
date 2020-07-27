@@ -25,12 +25,16 @@ h2{
 	text-align: center;
 }
 
-.container-fluid{
+.col-xs-12 {
 	text-align: center;
 	border:1px black solid;
 	background-color: grey;
-	color: black;
-	margin-top: 50px;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	padding: 2.5%;
+	margin-top: 10%;
+}
 
 }
 
