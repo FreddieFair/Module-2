@@ -4,6 +4,7 @@
 
 
 
+
 a{
 	color: black;
 }
@@ -27,6 +28,7 @@ a:hover {
 
 h2{
 	text-align: center;
+	margin-top: 5%;
 }
 
 .col-xs-12 {
@@ -37,7 +39,8 @@ h2{
 	margin-right: 10%;
 	margin-left: 10%;
 	padding: 2.5%;
-	margin-top: 10%;
+	margin-top: 5%;
+	color: black;
 }
 
 }
