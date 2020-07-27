@@ -1,0 +1,101 @@
+
+*{
+	font-family: 'Roboto Mono', monospace;
+}
+
+body{
+	background-color: #2e2e2e;
+}
+/*nav*/
+button {
+	box-shadow: 0px 1px 1px 1px ##de2336;
+}
+
+
+h3{
+	color: #de2336;
+	border: 2px solid #de2336; 
+	margin-bottom: 2px;
+	border-bottom-width:10px;
+	border-right-width: 10px;
+}
+/*nav*/
+
+/*parralax*/
+#lax{
+	height: 600px;
+}
+
+/*parralax*/
+
+
+.container-fluid{
+	background-color:#2e2e2e;
+	border:3px solid  #de2336;
+
+}
+
+
+	
+}
+.container-fluid h3{
+
+	margin-left: -15px;
+	width:103.5%;
+	padding-top: 5px;
+	margin-top: 10px;
+	display: inline-block;
+
+}
+
+.container-fluid p{
+	padding: 10px;
+	margin: 5px;
+	border: 1px solid #de2336;
+	border-radius: 10px;
+	background-color:#de2336 ;
+	margin-top: 20px;
+	color
+}
+
+.col-sm-5{
+	margin-top: 25px;
+	width: 40%;
+	margin-bottom: 25px;
+}
+
+
+#num1 {
+	padding-top: 200px;
+	margin-left: 20px;
+	border-top: none;
+	border-left: none;
+	border-right:none;
+	text-align: center;
+}
+
+
+.card-header{
+	background-color: #de2336;
+	border:3px #2e2e2e solid;
+
+}
+
+.card-footer{
+	background-color: #de2336;
+	color: black;
+	font-opacity:75%;
+}
+
+
+
+}
+
+
+.card-body{
+background-color:#828282;
+}
+
+.card{
+	margin: 5px;
+}

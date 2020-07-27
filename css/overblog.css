@@ -1,0 +1,59 @@
+
+*{
+	font-family: 'Roboto Mono', monospace;
+
+
+}
+
+body{
+
+	background-color: #2e2e2e;
+}
+.container{
+	background-color:#de2336;
+	padding-top:20px;
+	width: 50%;
+	margin-top: 20px;
+	border:3px solid #de2336;
+}
+
+.container h1 {
+	text-decoration: underline;
+}
+
+
+nav h3{
+	color: #de2336;
+	border: 2px solid #de2336; 
+	margin-bottom: 2px;
+	border-bottom-width:10px;
+	border-right-width: 10px;
+
+
+}
+#lax{
+	height: 700px;
+}
+
+
+#lax2{
+	height:1200px;
+}
+
+h6{
+	text-decoration: bold;
+	margin-left: 10px;
+	padding: 20px;
+}
+
+p{
+	padding: 30px;
+}
+
+
+@media (min-width: 0px) and (max-width: 800px) {
+	.container{
+		width: 80%;
+
+	}
+}
